@@ -287,14 +287,38 @@ public class algorithm {
 //        System.out.println(answer);
 //    }
         // 알고리즘 스터디
-        String[] strings_1 = {"sun", "bed", "car"};
-        String[] strings_2 = {"abce", "abcd", "cdx"};
-        int n = 1;
-        String[] answer;
+        // 내맘대로 정렬
+//        String[] strings_1 = {"sun", "bed", "car"};
+//        String[] strings_2 = {"abce", "abcd", "cdx"};
+//        int n = 1;
+//        String[] answer;
+//
+//        answer = Pro12915.solution(strings_1, n);
+//        for (int i = 0; i < answer.length; i++) {
+//            System.out.println(answer[i]);
+//        }
 
-        answer = Pro12915.solution(strings_1, n);
-        for (int i = 0; i < answer.length; i++) {
-            System.out.println(answer[i]);
-        }
+        //체육복
+        int n_1 = 5;
+        int[] lost_1 = {2,4};
+        int[] reserve_1 = {1,3,5};
+
+        int n_2 = 5;
+        int[] lost_2 = {2,4};
+        int[] reserve_2 = {3};
+
+        int n_3 = 3;
+        int[] lost_3 = {3};
+        int[] reserve_3 = {1};
+
+        int n_4 = 5;
+        int[] lost_4 = {1,2,3};
+        int[] reserve_4 = {1,3,4};
+
+        int answer;
+
+        answer = Pro42862.solution(n_4, lost_4,reserve_4);
+        System.out.println(answer);
+
     }
 }
