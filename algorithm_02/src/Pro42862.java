@@ -49,3 +49,4 @@ public class Pro42862 {
 }
 
 //그리디 문제임 - 거스름돈
+//https://www.youtube.com/watch?v=Fbw7A4CS_-A

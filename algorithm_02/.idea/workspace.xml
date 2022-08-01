@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="12954958-8c48-430f-a100-a19b31594d6b" name="Changes" comment="Changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm_02/Pro12915.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm_02/Pro12915.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm_02/algorithm.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm_02/algorithm.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pro42862.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pro42862.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +35,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/SpringWeek01/post",
+    "last_opened_file_path": "C:/Group12-algorithm-study/algorithm_02",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
@@ -123,6 +121,7 @@
       <workItem from="1659277866434" duration="608000" />
       <workItem from="1659313622006" duration="223000" />
       <workItem from="1659337878232" duration="7947000" />
+      <workItem from="1659379603252" duration="8000" />
     </task>
     <servers />
   </component>
