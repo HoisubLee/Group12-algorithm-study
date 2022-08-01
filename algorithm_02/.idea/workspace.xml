@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="12954958-8c48-430f-a100-a19b31594d6b" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BxcsI90o08OoGMRzYYPtaOawmD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/spartaAlgorithm/algorithm_02&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RunManager" selected="애플리케이션.algorithm">
+    <configuration name="Bj1000" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bj1000" />
+      <module name="algorithm_02" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bj10951" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Bj10951" />
+      <module name="algorithm_02" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="algorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="18" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="algorithm" />
+      <module name="algorithm_02" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bj2557" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bj2557" />
+      <module name="algorithm_02" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="애플리케이션.algorithm" />
+      <item itemvalue="애플리케이션.Bj1000" />
+      <item itemvalue="애플리케이션.bj2557" />
+      <item itemvalue="애플리케이션.Bj10951" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="애플리케이션.algorithm" />
+        <item itemvalue="애플리케이션.Bj10951" />
+        <item itemvalue="애플리케이션.Bj1000" />
+        <item itemvalue="애플리케이션.bj2557" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12954958-8c48-430f-a100-a19b31594d6b" name="Changes" comment="" />
+      <created>1657851384586</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657851384586</updated>
+      <workItem from="1657851388613" duration="11000" />
+      <workItem from="1657851421842" duration="473000" />
+      <workItem from="1657851924681" duration="10000" />
+      <workItem from="1657852004861" duration="120000" />
+      <workItem from="1657864855534" duration="7650000" />
+      <workItem from="1657873303329" duration="379000" />
+      <workItem from="1657873702044" duration="13759000" />
+      <workItem from="1657929330483" duration="40394000" />
+      <workItem from="1658037438923" duration="1000" />
+      <workItem from="1658041934495" duration="45347000" />
+      <workItem from="1658187595357" duration="26625000" />
+      <workItem from="1658316248307" duration="1051000" />
+      <workItem from="1658380260960" duration="5470000" />
+      <workItem from="1658804839461" duration="2531000" />
+      <workItem from="1658839266739" duration="896000" />
+      <workItem from="1658851657455" duration="37000" />
+      <workItem from="1658880736673" duration="4823000" />
+      <workItem from="1658906497685" duration="10602000" />
+      <workItem from="1658927783939" duration="802000" />
+      <workItem from="1659097978298" duration="5305000" />
+      <workItem from="1659190953692" duration="4021000" />
+      <workItem from="1659277866434" duration="608000" />
+      <workItem from="1659313622006" duration="223000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="str" />
+        <watch expression="sb.value" />
+        <watch expression="st.str" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
