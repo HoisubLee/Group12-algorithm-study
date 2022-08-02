@@ -1,4 +1,6 @@
-import java.util.Arrays;
+import Programmers.*;
+import algoWeek.*;
+import Baekjoon.*;
 
 public class algorithm {
 
@@ -9,7 +11,7 @@ public class algorithm {
 //        int a = 9;
 //        int b = 10;
 //        String answer ="";
-//        answer = algo01.solution(a,b);
+//        answer = algoWeek.algo01.solution(a,b);
 //
 //        System.out.println("요일 : "+answer);
 
@@ -18,21 +20,21 @@ public class algorithm {
 //        int[] arr = {11,2,6,1,89};
 //        int divisor = 1;
 //
-//        answer = algo02.solution(arr, divisor);
+//        answer = algoWeek.algo02.solution(arr, divisor);
 //        for(int i = 0; i < answer.length; i++) {
 //            System.out.println(answer[i]);
 //        }
 
         //문제 03번--------------------------수박수박수박수박수
 //        int a = 3;
-//        String answer = algo03.solution(a);
+//        String answer = algoWeek.algo03.solution(a);
 //
 //        System.out.println(answer);
 
         //문제 04번--------------------------완주하지 못한 선수 (해쉬 알고리즘)
 //        String[] participant = {"stanko", "stanko", "stanko", "stanko", "leo"};
 //        String[] completion = {"stanko", "stanko","stanko", "stanko"};
-//        String answer = algo04.solution(participant, completion);
+//        String answer = algoWeek.algo04.solution(participant, completion);
 //
 //        System.out.println(answer);
 
@@ -40,21 +42,21 @@ public class algorithm {
 //        String s = "ABCD E F ghi   jkl mnOP     QRstuv WXYZ       ";
 //        String answer;
 //
-//        answer = algo05.solution(s);
+//        answer = algoWeek.algo05.solution(s);
 //        System.out.println(answer);
 
         //문제 06번--------------------------
 //        int n = 123456789;
 //        int answer = 0;
 //
-//        answer = algo06.solution(n);
+//        answer = algoWeek.algo06.solution(n);
 //        System.out.println(answer);
 
         //문제 07번--------------------------
 //        long n = 1238618;
 //        int[] answer = {};
 //
-//        answer = algo07.solution(n);
+//        answer = algoWeek.algo07.solution(n);
 //        for (int i : answer) {
 //            System.out.print(i);
 //        }
@@ -63,35 +65,35 @@ public class algorithm {
 //        long n = 118372;
 //        long answer = 0;
 //
-//        answer = algo08.solution(n);
+//        answer = algoWeek.algo08.solution(n);
 //        System.out.println(answer);
 
         //문제 09번--------------------------
 //        long n = 3;
 //        long answer = 0;
 //
-//        answer = algo09.solution(n);
+//        answer = algoWeek.algo09.solution(n);
 //        System.out.println(answer);
 
         //문제 10번--------------------------
 //        int[] arr = {4,3,2,1};
 //        int[] answer;
 //
-//        answer = algo10.solution(arr);
+//        answer = algoWeek.algo10.solution(arr);
 //        System.out.println(answer);
 
         //문제 11번--------------------------
 //        int num = 626331;
 //        int answer = 0;
 //
-//        answer = algo11.solution(num);
+//        answer = algoWeek.algo11.solution(num);
 //        System.out.println(answer);
 
         //문제 12번--------------------------
 //        int x = 13;
 //        boolean answer;
 //
-//        answer = algo12.solution(x);
+//        answer = algoWeek.algo12.solution(x);
 //        System.out.println(answer);
 
         //문제 14번--------------------------
@@ -100,7 +102,7 @@ public class algorithm {
 //        int[][] num_3 = {{14,4}, {19,6}, {6,16}, {18,7}, {7,11}};
 //        int answer = 0;
 //
-//        answer = algo14.solution(num_3);
+//        answer = algoWeek.algo14.solution(num_3);
 //        System.out.println(answer);
 
         //문제 15번--------------------------
@@ -108,7 +110,7 @@ public class algorithm {
 //        int[] arr_2= {4,4,4,3,3};
 //        int[] answer;
 //
-//        answer = algo15.solution(arr_1);
+//        answer = algoWeek.algo15.solution(arr_1);
 //        for (int i = 0; i < answer.length; i++) {
 //            System.out.println(answer[i]);
 //        }
@@ -119,7 +121,7 @@ public class algorithm {
 //        int[] arr_3= {0,0,0,4,3,2,1,1};
 //        int[] answer;
 //
-//        answer = algo16.solution(arr_3);
+//        answer = algoWeek.algo16.solution(arr_3);
 //        for (int i = 0; i < answer.length; i++) {
 //            System.out.println(answer[i]);
 //        }
@@ -133,7 +135,7 @@ public class algorithm {
 //        int[] win_3= {20,9,3,45,4,35};
 //        int[] answer;
 //
-//        answer = algo17.solution(lotto_2, win_2);
+//        answer = algoWeek.algo17.solution(lotto_2, win_2);
 //        for (int i = 0; i < answer.length; i++) {
 //            System.out.println(answer[i]);
 //        }
@@ -143,7 +145,7 @@ public class algorithm {
 //        int[] answers_2 = {1,3,2,4,2};
 //        int[] answer;
 //
-//        answer = algo18.solution(answers_1);
+//        answer = algoWeek.algo18.solution(answers_1);
 //        for (int i = 0; i < answer.length; i++) {
 //            System.out.println(answer[i]);
 //        }
@@ -154,7 +156,7 @@ public class algorithm {
 //        int n = 1;
 //        String[] answer;
 //
-//        answer = algo19.solution(strings_1, n);
+//        answer = algoWeek.algo19.solution(strings_1, n);
 //        for (int i = 0; i < answer.length; i++) {
 //            System.out.println(answer[i]);
 //        }
@@ -163,7 +165,7 @@ public class algorithm {
 //        String s = "Zbcdefg";
 //        String answer;
 //
-//        answer = algo20.solution(s);
+//        answer = algoWeek.algo20.solution(s);
 //        System.out.println(answer);
 
         //문제 21번--------------------------
@@ -171,7 +173,7 @@ public class algorithm {
 //        int[] nums_2 = {1,2,7,6,4};
 //        int answer;
 //
-//        answer = algo21.solution(nums_2);
+//        answer = algoWeek.algo21.solution(nums_2);
 //        System.out.println(answer);
 
         //문제 22번--------------------------
@@ -182,7 +184,7 @@ public class algorithm {
 //        String s_5 = "threethree45sixseventhree";
 //        int answer;
 //
-//        answer = algo22.solution(s_5);
+//        answer = algoWeek.algo22.solution(s_5);
 //        System.out.println(answer);
 
         //문제 23번--------------------------
@@ -190,7 +192,7 @@ public class algorithm {
 //        int n = 1;
 //        String answer;
 //
-//        answer = algo23.solution(s, n);
+//        answer = algoWeek.algo23.solution(s, n);
 //        System.out.println(answer);
 
         //문제 24번--------------------------
@@ -201,21 +203,21 @@ public class algorithm {
 //        String new_id_5 = "abcdefghijklmn.p";
 //        String answer;
 //
-//        answer = algo24.solution(new_id_5);
+//        answer = algoWeek.algo24.solution(new_id_5);
 //        System.out.println(answer);
         //문제 25번--------------------------
 //        int left = 24;
 //        int right = 27;
 //        int answer = 0;
 //
-//        answer = algo25.solution(left, right);
+//        answer = algoWeek.algo25.solution(left, right);
 //        System.out.println(answer);
 
         //문제 26번--------------------------
 //        int n = 12;
 //        int answer = 0;
 //
-//        answer = algo26.solution(n);
+//        answer = algoWeek.algo26.solution(n);
 //        System.out.println(answer);
 
         //문제 27번--------------------------
@@ -225,7 +227,7 @@ public class algorithm {
 //        int budget_2 = 10;
 //        int answer = 0;
 //
-//        answer = algo27.solution(d_1,budget_1);
+//        answer = algoWeek.algo27.solution(d_1,budget_1);
 //        System.out.println(answer);
 
         //문제 28번--------------------------
@@ -237,7 +239,7 @@ public class algorithm {
 //        int m_3 = 60;
 //        int[] answer = {};
 //
-//        answer = algo28.solution(n_3, m_3);
+//        answer = algoWeek.algo28.solution(n_3, m_3);
 //        System.out.println(answer[0]+" "+answer[1]);
 
         //문제 29번--------------------------
@@ -246,7 +248,7 @@ public class algorithm {
 //
 //        int[] answer = {};
 //
-//        answer = algo29.solution(array_1, commands_1);
+//        answer = algoWeek.algo29.solution(array_1, commands_1);
 //        for (int i : answer) {
 //            System.out.println(i);
 //        }
@@ -257,7 +259,7 @@ public class algorithm {
 //
 //        int answer = 0;
 //
-//        answer = algo30.solution(n_2);
+//        answer = algoWeek.algo30.solution(n_2);
 //        System.out.println(answer);
 
         //문제 32번--------------------------
@@ -268,14 +270,14 @@ public class algorithm {
 //
 //        int[] answer = {};
 //
-//        answer = algo32.solution(n_1,stages_1);
+//        answer = algoWeek.algo32.solution(n_1,stages_1);
 //        System.out.println(answer);
 
         //모의고사
 //        int month = 6;
 //        int day = 22;
 //        String answer;
-//        answer = mockExam.solution(month, day);
+//        answer = algoWeek.mockExam.solution(month, day);
 //        System.out.println(answer);
 
         //시험
@@ -283,7 +285,7 @@ public class algorithm {
 //        int n_2 = 1532576;
 //        int n_3 = 718253;
 //        String answer;
-//        answer = algoTest.solution(n_2);
+//        answer = algoWeek.algoTest.solution(n_2);
 //        System.out.println(answer);
 //    }
         // 알고리즘 스터디
@@ -293,31 +295,40 @@ public class algorithm {
 //        int n = 1;
 //        String[] answer;
 //
-//        answer = Pro12915.solution(strings_1, n);
+//        answer = Programmers.Pro12915.solution(strings_1, n);
 //        for (int i = 0; i < answer.length; i++) {
 //            System.out.println(answer[i]);
 //        }
 
         //체육복
-        int n_1 = 5;
-        int[] lost_1 = {2,4};
-        int[] reserve_1 = {1,3,5};
+//        int n_1 = 5;
+//        int[] lost_1 = {2,4};
+//        int[] reserve_1 = {1,3,5};
+//
+//        int n_2 = 5;
+//        int[] lost_2 = {2,4};
+//        int[] reserve_2 = {3};
+//
+//        int n_3 = 3;
+//        int[] lost_3 = {3};
+//        int[] reserve_3 = {1};
+//
+//        int n_4 = 5;
+//        int[] lost_4 = {1,2,3};
+//        int[] reserve_4 = {1,3,4};
+//
+//        int answer;
+//
+//        answer = Pro42862.solution(n_4, lost_4,reserve_4);
+//        System.out.println(answer);
 
+        //소수 찾기
+        int n_1 = 10;
         int n_2 = 5;
-        int[] lost_2 = {2,4};
-        int[] reserve_2 = {3};
-
-        int n_3 = 3;
-        int[] lost_3 = {3};
-        int[] reserve_3 = {1};
-
-        int n_4 = 5;
-        int[] lost_4 = {1,2,3};
-        int[] reserve_4 = {1,3,4};
-
+        int n_3 = 12;
         int answer;
 
-        answer = Pro42862.solution(n_4, lost_4,reserve_4);
+        answer = Pro12921.solution(n_3);
         System.out.println(answer);
 
     }
