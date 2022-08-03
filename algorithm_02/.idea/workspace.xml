@@ -2,49 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12954958-8c48-430f-a100-a19b31594d6b" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programmers/Pro12921.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers/Pro12928.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bj1000.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/Bj1000.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bj10950.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/Bj10950.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bj10951.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/Bj10951.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bj10952.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/Bj10952.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pro12915.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Pro12915.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pro42862.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Pro42862.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoWeek/algo01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algo02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoWeek/algo02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algo03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoWeek/algo03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algo04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoWeek/algo04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algo05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoWeek/algo05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algo06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoWeek/algo06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algo07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoWeek/algo07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algo08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoWeek/algo08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algo09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoWeek/algo09.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algo10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoWeek/algo10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algo11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoWeek/algo11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algo12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoWeek/algo12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algo14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoWeek/algo14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algo15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoWeek/algo15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algo16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoWeek/algo16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algo17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoWeek/algo17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algo18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoWeek/algo18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algo19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoWeek/algo19.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algo20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoWeek/algo20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algo21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoWeek/algo21.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algo22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoWeek/algo22.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algo23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoWeek/algo23.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algo24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoWeek/algo24.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algo25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoWeek/algo25.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algo26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoWeek/algo26.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algo27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoWeek/algo27.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algo28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoWeek/algo28.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algo29.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoWeek/algo29.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algo30.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoWeek/algo30.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algo32.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoWeek/algo32.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoWeek/algoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bj2557.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/Bj2557.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mockExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoWeek/mockExam.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,6 +124,8 @@
       <workItem from="1659379603252" duration="8000" />
       <workItem from="1659383165699" duration="890000" />
       <workItem from="1659444686391" duration="2872000" />
+      <workItem from="1659529638841" duration="377000" />
+      <workItem from="1659530047815" duration="2352000" />
     </task>
     <servers />
   </component>
