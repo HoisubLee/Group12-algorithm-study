@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12954958-8c48-430f-a100-a19b31594d6b" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/src/Programmers/Pro12928.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers/Pro12926.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algoWeek/algo23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoWeek/algo23.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +127,8 @@
       <workItem from="1659383165699" duration="890000" />
       <workItem from="1659444686391" duration="2872000" />
       <workItem from="1659529638841" duration="377000" />
-      <workItem from="1659530047815" duration="2352000" />
+      <workItem from="1659530047815" duration="2414000" />
+      <workItem from="1659704789850" duration="2944000" />
     </task>
     <servers />
   </component>
@@ -142,6 +145,17 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Programmers/Pro12926.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

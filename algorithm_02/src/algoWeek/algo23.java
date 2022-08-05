@@ -6,8 +6,8 @@ public class algo23 {
         //각 문자들을 확인해서 대문자인지, 소문자인지 확인 후 n만큼 더해주었다.
         //범위를 넘어가면 -26을 시행했다.
         String answer = "";
+        // char[] ch = s.toCharArray();
         char[] array = new char[s.length()];
-
         for (int i = 0; i < s.length(); i++) {
             array[i] = s.charAt(i);
         }

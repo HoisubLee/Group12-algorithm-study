@@ -323,13 +323,25 @@ public class algorithm {
 //        System.out.println(answer);
 
         //소수 찾기
-        int n_1 = 10;
-        int n_2 = 5;
-        int n_3 = 12;
-        int answer;
+//        int n_1 = 10;
+//        int n_2 = 5;
+//        int n_3 = 12;
+//        int answer;
+//
+//        answer = Pro12921.solution(n_3);
+//        System.out.println(answer);
 
-        answer = Pro12921.solution(n_3);
+        //시저 암호
+        String s_1 = "AB";
+        String s_2 = "z";
+        String s_3 = "a B z";
+
+        int n_1 = 1;
+        int n_2 = 1;
+        int n_3 = 1;
+        String answer;
+
+        answer = Pro12926.solution(s_3, n_3);
         System.out.println(answer);
-
     }
 }
