@@ -332,16 +332,27 @@ public class algorithm {
 //        System.out.println(answer);
 
         //시저 암호
-        String s_1 = "AB";
-        String s_2 = "z";
-        String s_3 = "a B z";
+//        String s_1 = "AB";
+//        String s_2 = "z";
+//        String s_3 = "a B z";
+//
+//        int n_1 = 1;
+//        int n_2 = 1;
+//        int n_3 = 1;
+//        String answer;
+//
+//        answer = Pro12926.solution(s_3, n_3);
+//        System.out.println(answer);
 
-        int n_1 = 1;
-        int n_2 = 1;
-        int n_3 = 1;
-        String answer;
+        //폰켓몬
+        int[] nums_1 = {3,1,2,3};
+        int[] nums_2 = {3,3,3,2,2,4};
+        int[] nums_3 = {3,3,3,2,2,2};
 
-        answer = Pro12926.solution(s_3, n_3);
+        int answer;
+
+        answer = Pro1845.solution(nums_2);
         System.out.println(answer);
+
     }
 }
