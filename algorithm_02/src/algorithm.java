@@ -345,14 +345,52 @@ public class algorithm {
 //        System.out.println(answer);
 
         //폰켓몬
-        int[] nums_1 = {3,1,2,3};
-        int[] nums_2 = {3,3,3,2,2,4};
-        int[] nums_3 = {3,3,3,2,2,2};
+//        int[] nums_1 = {3,1,2,3};
+//        int[] nums_2 = {3,3,3,2,2,4};
+//        int[] nums_3 = {3,3,3,2,2,2};
+//
+//        int answer;
+//
+//        answer = Pro1845.solution(nums_2);
+//        System.out.println(answer);
 
-        int answer;
+        //모의고사
+//        int[] answers_1 = {1,2,3,4,5};
+//        int[] answers_2 = {1,3,2,4,2};
+//        int[] answer;
+//
+//        answer = Pro42840.solution(answers_2);
+//        for (int i = 0; i < answer.length; i++) {
+//            System.out.println(answer[i]);
+//        }
 
-        answer = Pro1845.solution(nums_2);
+        //실패율
+//        int n_1 = 5;
+//        int n_2 = 4;
+//        int[] stages_1 = {2, 1, 2, 6, 2, 4, 3, 3};
+//        int[] stages_2 = {4,4,4,4,4};
+//
+//        int[] answer = {};
+//
+//        answer = Pro42889.solution(n_1,stages_1);
+//        System.out.println(answer);
+
+        //줄 서는 방법
+
+//        int n = 3;
+//        long k = 5;
+//
+//        int[] answer = {};
+//
+//        answer = Pro12936.solution(n,k);
+//        for (int i : answer) {
+//            System.out.println(answer[i]);
+//        }
+
+        // 124나라의 숫자
+        // https://school.programmers.co.kr/learn/courses/30/lessons/12899?language=java
+        int n = 4;
+        String answer = Pro12899.solution(n);
         System.out.println(answer);
-
     }
 }
